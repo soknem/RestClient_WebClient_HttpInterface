@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: rest-client-webcient-http-interface
+
+springdoc:
+  swagger-ui:
+    path: /ui
+
+server:
+  port: 8081
